@@ -9,5 +9,5 @@ Explore pages dedicated to specific games to learn about their features, gamepla
 
 ## Explore Featured Games
 
-- [Minecraft](minecraft.md)  
+- [Minecraft]([minecraft.md](https://tomasz-meres.github.io/Games/games.html))  
 Unleash your creativity in this open-world sandbox game loved by millions.  
